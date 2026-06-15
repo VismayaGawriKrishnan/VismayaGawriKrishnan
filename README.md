@@ -178,19 +178,6 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────┐
-│           🎯 DEVELOPER JOURNEY 2024-2026        │
-├─────────────────────────────────────────────────┤
-│ [████████░░] Full-Stack Mastery (80%)           │
-│ [██████░░░░] Backend Architecture (60%)         │
-│ [████████████] Frontend Expertise (100%)        │
-│ [█████░░░░░░] AI/ML Integration (50%)           │
-│ [██████████░░] Healthcare Tech (85%)            │
-│ [██████░░░░░░] Design Systems (60%)             │
-└─────────────────────────────────────────────────┘
-```
-
 </div>
 
 <div align="left">
@@ -208,7 +195,7 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🏆 Highlights
 
 <div align="center">
 
@@ -230,18 +217,6 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VismayaGawriKrishnan&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
----
-
-## 🎬 Interactive Animations & Insights
-
-<div align="center">
-
-### Developer Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
 
 </div>
 
