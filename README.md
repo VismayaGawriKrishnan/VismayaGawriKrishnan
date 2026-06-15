@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=Vismaya%20Gawri%20Krishnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&font=Orbitron&color=0:667eea,100:764ba2&text=Vismaya%20Gawri%20Krishnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=20" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667eea&center=true&width=800&lines=Crafting+Beautiful+Digital+Experiences;Building+Intuitive%2C+Responsive+Applications;Exploring+AI%2C+Design%2C+and+Full-Stack+Development" alt="Typing animation" />
@@ -238,10 +238,6 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 <a href="https://github.com/VismayaGawriKrishnan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-VismayaGawriKrishnan-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://viorafitness.vercel.app/welcome" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-VIORA%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
