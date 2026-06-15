@@ -135,12 +135,11 @@ Currently exploring **full-stack development** while continuously refining my de
 
 <div align="center">
 
-<div align="center">
+## 🌌 Contribution Skyline
 
-## 👾 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VismayaGawriKrishnan/VismayaGawriKrishnan/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
 ## 🎨 Design & Development Philosophy
 
 <details open>
