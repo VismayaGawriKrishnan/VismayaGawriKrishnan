@@ -135,12 +135,14 @@ Currently exploring **full-stack development** while continuously refining my de
 
 <div align="center">
 
-### Contribution Activity
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=ff6b6b" alt="GitHub Streak" /> </div> 
+## 👾 Contribution Activity
 
----
+<img src="https://raw.githubusercontent.com/VismayaGawriKrishnan/VismayaGawriKrishnan/output/pacman-contribution-graph.svg">
 
+</div> <br>
+<i>Eating commits one contribution at a time.</i> <br>
 ## 🎨 Design & Development Philosophy
 
 <details open>
