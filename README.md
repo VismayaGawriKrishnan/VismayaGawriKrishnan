@@ -138,11 +138,9 @@ Currently exploring **full-stack development** while continuously refining my de
 <div align="center">
 
 ## 👾 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/VismayaGawriKrishnan/VismayaGawriKrishnan/output/pacman-contribution-graph.svg">
-
-</div> <br>
-<i>Eating commits one contribution at a time.</i> <br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VismayaGawriKrishnan/VismayaGawriKrishnan/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 ## 🎨 Design & Development Philosophy
 
 <details open>
