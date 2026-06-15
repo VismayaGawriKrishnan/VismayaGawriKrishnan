@@ -274,10 +274,5 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=667EEA&center=true&width=600&lines=Designing+meaningful+experiences.;Building+for+humans%2C+not+just+screens.;Always+learning.+Always+creating." />
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer&reverseDirection=true" />
 </div>
