@@ -1,6 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,100:764ba2&text=Vismaya%20Gawri%20Krishnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=20" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&width=600&lines=Frontend+%7C+Flutter+%7C+React+Native;Crafting+Beautiful+Digital+Experiences;UI%2FUX+Designer+%26+Full-Stack+Explorer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667eea&center=true&width=800&lines=Crafting+Beautiful+Digital+Experiences;Building+Intuitive%2C+Responsive+Applications;Exploring+AI%2C+Design%2C+and+Full-Stack+Development" alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -97,56 +98,47 @@ Currently exploring **full-stack development** while continuously refining my de
 
 <div align="center">
 
-### Frontend & Web
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Modern-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Core Technologies & Tools**
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-3-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-Modern-61DAFB?style=flat-square&logo=react&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,typescript,javascript,html,css,tailwind,nodejs,git,vite,figma,firebase&perline=7&theme=dark" />
 
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Component%20Library-000000?style=flat-square)
+</div>
 
-### Tools & Build
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<div align="center">
 
-### APIs & AI
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20API-4285F4?style=flat-square&logo=google&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-0078D4?style=flat-square)
+### Specializations
 
-### Other Languages
-![Java](https://img.shields.io/badge/Java-OOP-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Competitive-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+| **Frontend & Web** | **Mobile Development** | **AI & APIs** | **Tools & Build** |
+|---|---|---|---|
+| React 18 | Flutter 3 | Google Gemini | Vite |
+| TypeScript | Dart | MediaPipe | Node.js |
+| JavaScript | React Native | Computer Vision | Git |
+| HTML5 & CSS3 | Responsive Design | Vision APIs | npm/bun |
+| Tailwind CSS | Custom Widgets | REST APIs | Figma |
+| shadcn/ui | Material Design | LLM Integration | VS Code |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img alt="Vismaya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-      </td>
-      <td>
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact" />
-      </td>
-    </tr>
-  </table>
+
+### Development Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=58a6ff" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=667eea" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true" />
+
+### Contribution Activity
+
+<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=ff6b6b" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -173,40 +165,146 @@ I stay current with the frontend ecosystem—leveraging Vite, TypeScript, Tailwi
 ### **Design Thinking**
 Whether it's healthcare (UrFine), fitness (VIORA-AI), or travel, I deeply understand the domain before building—ensuring the product resonates with users.
 
+### **Performance-Obsessed**
+Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for every millisecond.
+
 </div>
 
 </details>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Developer Journey
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│           🎯 DEVELOPER JOURNEY 2024-2026        │
+├─────────────────────────────────────────────────┤
+│ [████████░░] Full-Stack Mastery (80%)           │
+│ [██████░░░░] Backend Architecture (60%)         │
+│ [████████████] Frontend Expertise (100%)        │
+│ [█████░░░░░░] AI/ML Integration (50%)           │
+│ [██████████░░] Healthcare Tech (85%)            │
+│ [██████░░░░░░] Design Systems (60%)             │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
 
 <div align="left">
+
+**Active Focus Areas:**
 
 - 🎯 **Deepening full-stack capabilities**—mastering backend technologies to complement my frontend expertise
 - 🤖 **AI/ML integration**—exploring how generative AI and computer vision enhance user experiences
 - 🏥 **Healthcare tech**—building impactful applications in wellness and accessibility
 - 🎨 **Design systems**—creating scalable, component-based design architectures
 - 📱 **Cross-platform mobile**—leveraging Flutter and React Native for efficient multi-platform development
+- 🔐 **Authentication & Security**—implementing robust auth systems (OAuth, JWT, OTP)
 
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## 🏆 Highlights & Achievements
 
 <div align="center">
 
-**Portfolio** • **Resume** • **LinkedIn** • **Twitter**
+| Achievement | Description |
+|---|---|
+| 🎨 **UI/UX Designer** | Complete onboarding flows, healthcare interfaces, e-commerce designs |
+| 📱 **Mobile Developer** | Flutter apps from concept to deployment with responsive, custom widgets |
+| ⚛️ **Frontend Expert** | React 18, TypeScript, modern CSS, state management, responsive design |
+| 🤖 **AI Integration** | Google Gemini, Vision APIs, computer vision (MediaPipe), voice integration |
+| 🏥 **Healthcare Focus** | Building empathetic solutions for palliative care and wellness |
+| 🔧 **Full-Stack Learner** | Currently expanding backend & database expertise |
 
-*Or just send me a message—I'm always excited to discuss design, code, and how technology can make the world a little better.*
+</div>
+
+---
+
+## 🌟 Visual Contributions & Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VismayaGawriKrishnan&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+---
+
+## 🎬 Interactive Animations & Insights
+
+<div align="center">
+
+### Developer Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
+
+</div>
+
+---
+
+## 🔗 Let's Connect & Collaborate
+
+<div align="center">
+
+### Get in Touch
+
+<a href="mailto:vismayagawrikrishnan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-vismayagawrikrishnan@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/vismaya-gawri-krishnan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vismaya%20Gawri%20Krishnan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/VismayaGawriKrishnan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-VismayaGawriKrishnan-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://viorafitness.vercel.app/welcome" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-VIORA%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+## 💬 Let's Talk About
+
+<div align="center">
+
+- **Frontend Architecture** — React patterns, state management, performance optimization
+- **Mobile Development** — Flutter, React Native, cross-platform best practices
+- **Design Systems** — Component libraries, accessibility, responsive design
+- **AI & Generative APIs** — Integrating Gemini, OpenAI, computer vision
+- **Healthcare Tech** — Building empathetic, accessible applications
+- **Full-Stack Development** — Exploring backends, databases, DevOps
+- **Open Source** — Contributing to the community & learning from others
+
+*Feel free to reach out for collaboration, mentorship, or just geeking out about tech!*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&width=600&lines=Building+elegant+solutions+to+complex+problems;One+commit+at+a+time." alt="Closing message" />
-  
-  <p><em>Last updated: June 2026</em></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=667eea&center=true&width=700&lines=Building+elegant+solutions+to+complex+problems;One+commit+at+a+time.;Let's+create+something+extraordinary+together." alt="Closing message" />
+
+### Open to Opportunities
+
+💼 Looking for **internships**, **collaborations**, and **exciting projects**
+
+🚀 Currently exploring **full-stack development** and **AI-powered applications**
+
+📧 **Get in touch** — I'd love to discuss ideas and opportunities!
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer&reverseDirection=true" />
+
 </div>
