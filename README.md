@@ -136,12 +136,7 @@ Currently exploring **full-stack development** while continuously refining my de
 <div align="center">
 
 ### Contribution Activity
-
-<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=ff6b6b" alt="GitHub Streak" />
-
-</div>
-
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VismayaGawriKrishnan&theme=tokyonight" />
 
 ## 🎨 Design & Development Philosophy
 
