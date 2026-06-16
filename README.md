@@ -14,14 +14,13 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" alt="star"> About Me
 
-I'm a developer and designer passionate about building intuitive, responsive applications that solve real-world problems. My work spans **frontend development**, **mobile applications**, and **UI/UX design**—with a strong emphasis on creating seamless user experiences.
+Frontend Developer and UI/UX Designer focused on crafting responsive web and mobile experiences. Passionate about Flutter, React Native, AI-powered applications, and turning complex ideas into intuitive products, creating seamless user experiences.
 
 What drives me:
 - **Translating design** into pixel-perfect, responsive implementations
 - **Building mobile-first** solutions with Flutter and React Native
 - **Crafting accessible interfaces** that prioritize user empathy
 - **Exploring modern web architectures** with React, TypeScript, and cutting-edge tooling
-- **Designing for healthcare & wellness**—understanding that beautiful UX can literally save lives
 
 Currently exploring **full-stack development** while continuously refining my design and frontend craft.
 
@@ -55,7 +54,7 @@ Currently exploring **full-stack development** while continuously refining my de
         <strong>Tech:</strong> Flutter • Dart • Custom Widgets • Responsive Design
       </p>
       <p>
-        <strong>Focus:</strong> Complete UI/UX flow including splash screens, authentication, OTP verification, sign-up—with emphasis on accessibility and ease-of-use
+        <strong>Focus:</strong>  UI/UX flow including splash screens, authentication, OTP verification, sign-up—with emphasis on accessibility and ease-of-use
       </p>
       <p><em>Code coming soon</em></p>
     </td>
@@ -71,7 +70,7 @@ Currently exploring **full-stack development** while continuously refining my de
         <strong>Tech:</strong> React Native • JavaScript • Responsive UI
       </p>
       <p>
-        <strong>Role:</strong> Contributed on frontend implementation and UI design, architecture
+        <strong>Role:</strong> Contributed on implementation and UI design, architecture
       </p>
       <a href="https://github.com/VismayaGawriKrishnan/Travel-App">→ View Repository</a>
     </td>
@@ -140,7 +139,6 @@ Currently exploring **full-stack development** while continuously refining my de
 
 </div>
 <div align="center">
----
 
 ## 🎨 Design & Development Philosophy 
 
@@ -210,22 +208,21 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 ---
 <div align="center">
 
-
 <h2 align="center">🤝 Let's Connect</h2>
 
-<div align="center">
-
-<a href="mailto:vismayagawrikrishnan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vismaya-gawri-krishnan/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VismayaGawriKrishnan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:vismayagawrikrishnan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vismaya-gawri-krishnan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/VismayaGawriKrishnan">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+</p>
 
 <br>
 <br>
