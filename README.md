@@ -191,13 +191,13 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 </div>
 <div align="left">
-### Current Goals
+ 
+## Current Goals
 
 - Building AI-powered applications
 - Strengthening backend development skills
 - Exploring scalable architecture patterns
 </div>
----
 
 ## 🌟 Visual Contributions & Stats
 
@@ -228,7 +228,7 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 </a>
 
 <br>
-
+<br>
 Frontend • Mobile • UI/UX • AI Applications
 
 <br>
