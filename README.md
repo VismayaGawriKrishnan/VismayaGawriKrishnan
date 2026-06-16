@@ -134,13 +134,9 @@ Currently exploring **full-stack development** while continuously refining my de
 </div>
 
 <div align="center">
+---
 
-## 🌌 Contribution Skyline
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
-## 🎨 Design & Development Philosophy
+## 🎨 Design & Development Philosophy 
 
 <details open>
 <summary><strong>→ My Approach to Building Digital Experiences</strong></summary>
@@ -209,11 +205,7 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 ---
 <div align="center">
 
-## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=VismayaGawriKrishnan&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -230,14 +222,11 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 Frontend • Mobile • UI/UX • AI Applications
 
 <br>
-
-Open to internships, collaborations, and exciting projects.
-
 </div>
 <div align="center">
 
