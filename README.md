@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&font=Orbitron&color=0:667eea,100:764ba2&text=Vismaya%20Gawri%20Krishnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=20" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667eea&center=true&width=800&lines=Crafting+Beautiful+Digital+Experiences;Building+Intuitive%2C+Responsive+Applications;Exploring+AI%2C+Design%2C+and+Full-Stack+Development" alt="Typing animation" />
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+Flutter+Developer+%7C+UI%2FUX+Designer;Crafting+Beautiful+Digital+Experiences;Building+Responsive+Apps+and+Modern+Interfaces;Exploring+AI%2C+Full-Stack+Development+and+Design+Systems" />
 </div>
 
 <div align="center">
@@ -171,7 +171,7 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 ---
 
-## 🚀 Current Focus & Developer Journey
+## 🚀 Current Goals & Focus Areas
 
 <div align="center">
 
@@ -190,23 +190,12 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 </div>
 
----
+### Current Goals
 
-## 🏆 Highlights
-
-<div align="center">
-
-| Achievement | Description |
-|---|---|
-| 🎨 **UI/UX Designer** | Complete onboarding flows, healthcare interfaces, e-commerce designs |
-| 📱 **Mobile Developer** | Flutter apps from concept to deployment with responsive, custom widgets |
-| ⚛️ **Frontend Expert** | React 18, TypeScript, modern CSS, state management, responsive design |
-| 🤖 **AI Integration** | Google Gemini, Vision APIs, computer vision (MediaPipe), voice integration |
-| 🏥 **Healthcare Focus** | Building empathetic solutions for palliative care and wellness |
-| 🔧 **Full-Stack Learner** | Currently expanding backend & database expertise |
-
-</div>
-
+- Building AI-powered applications
+- Strengthening backend development skills
+- Exploring scalable architecture patterns
+- Creating meaningful healthcare technology
 ---
 
 ## 🌟 Visual Contributions & Stats
@@ -218,50 +207,41 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 </div>
 
 ---
-
-## 🔗 Let's Connect 
-
 <div align="center">
 
-### Get in Touch
+## 🏆 Achievements
 
-<a href="mailto:vismayagawrikrishnan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-vismayagawrikrishnan@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/vismaya-gawri-krishnan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Vismaya%20Gawri%20Krishnan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/VismayaGawriKrishnan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-VismayaGawriKrishnan-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=VismayaGawriKrishnan&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
----
-
-## 💬 Let's Talk About
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-- **Frontend Architecture** — React patterns, state management, performance optimization
-- **Mobile Development** — Flutter, React Native, cross-platform best practices
-- **Design Systems** — Component libraries, accessibility, responsive design
-- **AI & Generative APIs** — Integrating Gemini, OpenAI, computer vision
-- **Healthcare Tech** — Building empathetic, accessible applications
-- **Full-Stack Development** — Exploring backends, databases, DevOps
-- **Open Source** — Contributing to the community & learning from others
+<a href="mailto:vismayagawrikrishnan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-667eea?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*Feel free to reach out for collaboration, mentorship, or just geeking out about tech!*
+<a href="https://www.linkedin.com/in/vismaya-gawri-krishnan/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VismayaGawriKrishnan">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+Frontend • Mobile • UI/UX • AI Applications
+
+<br>
+
+Open to internships, collaborations, and exciting projects.
 
 </div>
-
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=667eea&center=true&width=700&lines=Building+elegant+solutions+to+complex+problems;One+commit+at+a+time.;Let's+create+something+extraordinary+together." alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=667EEA&center=true&width=700&lines=Designing+interfaces+people+love+to+use.;Turning+ideas+into+digital+experiences.;Always+learning.+Always+building." />
 
 ### Open to Opportunities
 
