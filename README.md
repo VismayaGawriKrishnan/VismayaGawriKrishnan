@@ -65,13 +65,13 @@ Currently exploring **full-stack development** while continuously refining my de
       <h3><strong>Travel-App</strong></h3>
       <p><em>Full-Featured React Native Travel Platform</em></p>
       <p>
-        Complete React Native frontend for a comprehensive travel booking and discovery application. Built with responsive design principles and modern mobile-first UX patterns.
+        Implemented React Native frontend for a comprehensive travel booking and discovery application. Built with responsive design principles and modern mobile-first UX patterns.
       </p>
       <p>
         <strong>Tech:</strong> React Native • JavaScript • Responsive UI
       </p>
       <p>
-        <strong>Role:</strong> Sole contributor on frontend implementation and UI architecture
+        <strong>Role:</strong> Contributed on frontend implementation and UI design, architecture
       </p>
       <a href="https://github.com/VismayaGawriKrishnan/Travel-App">→ View Repository</a>
     </td>
@@ -132,7 +132,13 @@ Currently exploring **full-stack development** while continuously refining my de
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=667eea" alt="Top Languages" />
 
 </div>
+<div align="center">
 
+### Contribution Activity
+
+<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=ff6b6b" alt="GitHub Streak" />
+
+</div>
 <div align="center">
 ---
 
@@ -166,13 +172,12 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 </details>
 
 ---
-
-## 🚀 Current Goals & Focus Areas
-
 <div align="center">
 
-</div>
 
+## 🚀 Goals & Focus Areas
+
+</div>
 <div align="left">
 
 **Active Focus Areas:**
@@ -185,13 +190,13 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 - 🔐 **Authentication & Security**—implementing robust auth systems (OAuth, JWT, OTP)
 
 </div>
-
+<div align="left">
 ### Current Goals
 
 - Building AI-powered applications
 - Strengthening backend development skills
 - Exploring scalable architecture patterns
-- Creating meaningful healthcare technology
+</div>
 ---
 
 ## 🌟 Visual Contributions & Stats
