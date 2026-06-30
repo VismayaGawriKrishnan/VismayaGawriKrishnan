@@ -65,11 +65,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VismayaGawriKrishnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br>
-![](https://streak-stats.demolab.com/?user=VismayaGawriKrishnan&theme=dark&hide_border=false)<br/>
+<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
 <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VismayaGawriKrishnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
