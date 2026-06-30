@@ -20,17 +20,6 @@
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **VIORA-AI** | AI health & fitness platform with food scanning and posture coaching | React • TypeScript • Gemini API • Tailwind | [Repo](https://github.com/VismayaGawriKrishnan/VIORA-AI) • [Live](https://viorafitness.vercel.app/welcome) |
-| **UrFine** | Palliative care companion app focused on accessibility and health tracking | Flutter • Dart | *Coming soon* |
-| **Travel-App** | React Native travel booking application with modern mobile UX | React Native • JavaScript | [Repo](https://github.com/VismayaGawriKrishnan/Travel-App) |
-| **Yale Redesign** | Modern responsive redesign of university portal | HTML • CSS | [Repo](https://github.com/VismayaGawriKrishnan/Yale_University_Website_Redesign-main) |
-
----
-
 ## Tech Stack
 
 <div align="center">
