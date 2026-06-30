@@ -1,17 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&font=Orbitron&color=0:667eea,100:764ba2&text=Vismaya%20Gawri%20Krishnan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=20" />
+<h1 align="center">Hi, I'm Vismaya Gawri Krishnan 👋</h1>
 
- <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+Flutter+Developer+%7C+UI%2FUX+Designer;Crafting+Beautiful+Digital+Experiences;Building+Responsive+Apps+and+Modern+Interfaces;Exploring+AI%2C+Full-Stack+Development+and+Design+Systems" />
 </div>
 
 <div align="center">
   <p>
-    <strong>Computer Science Student</strong> exploring the intersection of <em>design, code, and human experience</em>
+    <strong>Computer Science Student</strong> passionate about building modern web and mobile experiences through thoughtful design and clean code.
   </p>
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" alt="star"> About Me
 
 Frontend Developer and UI/UX Designer focused on crafting responsive web and mobile experiences. Passionate about Flutter, React Native, AI-powered applications, and turning complex ideas into intuitive products, creating seamless user experiences.
@@ -32,61 +31,32 @@ Currently exploring **full-stack development** while continuously refining my de
   <tr>
     <td width="50%">
       <h3><strong>VIORA-AI</strong></h3>
-      <p><em>Comprehensive AI Health & Fitness Companion</em></p>
-      <p>
-        A sophisticated health and wellness platform powered by <strong>Google Gemini API</strong>. Features intelligent food scanning with vision AI, AI-driven posture coaching, personalized workout tracking, and dynamic diet planning.
-      </p>
-      <p>
-        <strong>Tech:</strong> React 18 • TypeScript • Vite • Tailwind CSS • Google Gemini API • MediaPipe • shadcn/ui
-      </p>
-      <p>
-        <strong>Impact:</strong> Real-time nutritional analysis, computer vision-based posture correction, community fitness engagement
-      </p>
-      <a href="https://github.com/VismayaGawriKrishnan/VIORA-AI">→ View Repository</a> • <a href="https://viorafitness.vercel.app/welcome">🌐 Live Demo</a>
+      <p>AI-powered health and fitness platform with food recognition, posture analysis, workout tracking, and personalized nutrition.</p>
+      <p><strong>React • TypeScript • Gemini API • Tailwind CSS</strong></p>
+      <a href="https://github.com/VismayaGawriKrishnan/VIORA-AI">Repository</a> •
+      <a href="https://viorafitness.vercel.app/welcome">Live Demo</a>
     </td>
     <td width="50%">
       <h3><strong>UrFine</strong></h3>
-      <p><em>Palliative Care Companion App</em></p>
-      <p>
-        A Flutter-based mobile application designed with empathy for patients and caregivers. Features streamlined health logging, medical records access, emergency contacts, and personalized diet suggestions for holistic wellness management.
-      </p>
-      <p>
-        <strong>Tech:</strong> Flutter • Dart • Custom Widgets • Responsive Design
-      </p>
-      <p>
-        <strong>Focus:</strong>  UI/UX flow including splash screens, authentication, OTP verification, sign-up—with emphasis on accessibility and ease-of-use
-      </p>
+      <p>Flutter-based palliative care companion app focused on accessibility, health tracking, and caregiver support.</p>
+      <p><strong>Flutter • Dart</strong></p>
       <p><em>Code coming soon</em></p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><strong>Travel-App</strong></h3>
-      <p><em>Full-Featured React Native Travel Platform</em></p>
-      <p>
-        Implemented React Native frontend for a comprehensive travel booking and discovery application. Built with responsive design principles and modern mobile-first UX patterns.
-      </p>
-      <p>
-        <strong>Tech:</strong> React Native • JavaScript • Responsive UI
-      </p>
-      <p>
-        <strong>Role:</strong> Contributed on implementation and UI design, architecture
-      </p>
-      <a href="https://github.com/VismayaGawriKrishnan/Travel-App">→ View Repository</a>
+      <p>React Native travel booking application with responsive UI and modern mobile experience.</p>
+      <p><strong>React Native • JavaScript</strong></p>
+      <a href="https://github.com/VismayaGawriKrishnan/Travel-App">Repository</a>
     </td>
+
     <td width="50%">
       <h3><strong>Yale University Website Redesign</strong></h3>
-      <p><em>Modern University Portal Redesign</em></p>
-      <p>
-        A comprehensive website redesign showcasing modern web design principles, improved information architecture, and enhanced user experience for an educational institution.
-      </p>
-      <p>
-        <strong>Tech:</strong> HTML • CSS • Responsive Design • UI/UX Principles
-      </p>
-      <p>
-        <strong>Focus:</strong> Accessibility, modern design systems, information hierarchy
-      </p>
-      <a href="https://github.com/VismayaGawriKrishnan/Yale_University_Website_Redesign-main">→ View Repository</a>
+      <p>Responsive redesign of Yale University's website showcasing modern UI/UX principles.</p>
+      <p><strong>HTML • CSS • Responsive Design</strong></p>
+      <a href="https://github.com/VismayaGawriKrishnan/Yale_University_Website_Redesign-main">Repository</a>
     </td>
   </tr>
 </table>
@@ -173,30 +143,16 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 <div align="center">
 
 
-## 🚀 Goals & Focus Areas
+## 🚀 Currently Exploring
 
-</div>
-<div align="left">
+- 🤖 AI-powered applications
+- 🌐 Full-stack development
+- 📱 Cross-platform mobile development
+- 🎨 Scalable design systems
+- ⚡ Modern frontend architecture
+- 🔐 Authentication & backend integration
 
-**Active Focus Areas:**
-
-- 🎯 **Deepening full-stack capabilities**—mastering backend technologies to complement my frontend expertise
-- 🤖 **AI/ML integration**—exploring how generative AI and computer vision enhance user experiences
-- 🏥 **Healthcare tech**—building impactful applications in wellness and accessibility
-- 🎨 **Design systems**—creating scalable, component-based design architectures
-- 📱 **Cross-platform mobile**—leveraging Flutter and React Native for efficient multi-platform development
-- 🔐 **Authentication & Security**—implementing robust auth systems (OAuth, JWT, OTP)
-
-</div>
-<div align="left">
- 
-## Current Goals
-
-- Building AI-powered applications
-- Strengthening backend development skills
-- Exploring scalable architecture patterns
-</div>
-
+---
 ## 🌟 Visual Contributions & Stats
 
 <div align="center">
@@ -207,8 +163,9 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
 
 ---
 <div align="center">
+<div align="center">
 
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:vismayagawrikrishnan@gmail.com">
@@ -224,7 +181,15 @@ Fast, smooth experiences aren't a luxury—they're a requirement. I optimize for
   </a>
 </p>
 
-<br>
+### Open to Opportunities
+
+💼 Internships • Collaborations • Frontend & Mobile Development
+
+🚀 Currently exploring Full-Stack Development and AI-powered Applications
+
+Thanks for stopping by! ⭐
+
+</div>
 <br>
 Frontend • Mobile • UI/UX • AI Applications
 
@@ -242,7 +207,4 @@ Frontend • Mobile • UI/UX • AI Applications
 
 📧 **Get in touch** — I'd love to discuss ideas and opportunities!
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer&reverseDirection=true" />
 </div>
