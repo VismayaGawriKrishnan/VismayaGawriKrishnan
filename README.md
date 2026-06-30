@@ -2,7 +2,7 @@
 
 # Vismaya Gawri Krishnan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Designer;AI+Enthusiast+%7C+Exploring+ML;Building+Modern+Web+Experiences)](https://github.com/VismayaGawriKrishnan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;AI+%26+ML+Explorer;Building+Modern+Web+%26+Mobile+Experiences)](https://github.com/VismayaGawriKrishnan)
 
 </div>
 
@@ -62,11 +62,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VismayaGawriKrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=VismayaGawriKrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
