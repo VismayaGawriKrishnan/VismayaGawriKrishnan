@@ -62,16 +62,12 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/apiusername=VismayaGawriKrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/username=VismayaGawriKrishnan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VismayaGawriKrishnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br>
+![](https://streak-stats.demolab.com/?user=VismayaGawriKrishnan&theme=dark&hide_border=false)<br/>
+<br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VismayaGawriKrishnan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://streak-stats.demolab.com?user=VismayaGawriKrishnan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
